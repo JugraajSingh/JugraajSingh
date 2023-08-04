@@ -1,4 +1,4 @@
-6![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![MasterHead](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
 <h1 align="center">Hi 👋, I'm Jugraaj Singh</h1>
 <h3 align="center">A passionate developer from India.</h3> 
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
@@ -9,7 +9,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jugraajsingh&label=Profile%20views&color=0e75b6&style=flat" alt="jugraajsingh" /> </p>
 
-<p align="left"> <a href="https://twitter.com/jugraaj singh" target="blank"><img src="https://img.shields.io/twitter/follow/jugraaj singh?logo=twitter&style=for-the-badge" alt="jugraaj singh" /></a> </p>
+<p align="left"> <a href="https://twitter.com/paaji_in_pilani" target="blank"><img src="https://img.shields.io/twitter/follow/jugraaj singh?logo=twitter&style=for-the-badge" alt="jugraaj singh" /></a> </p>
 
 - 🔭 I’m currently pursuing my engineering **from BITS Pilani**
 - 🔭 I have completed my **DSA in JAVA**
